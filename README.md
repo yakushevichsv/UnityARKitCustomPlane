@@ -3,8 +3,8 @@ Unity ARKit project for custom plane detection.
 
 Adjusted sample project from Unity ARKit framework for plane detection and mesh display.
 It was necessary to rewrite(adjust) the following files:
-- ARKitPlaneMeshRender
-- UnityARKitUtility
+* ARKitPlaneMeshRender
+* UnityARKitUtility
 * UnityARGeneratePlane
 * UnityARAnchorManager
 
